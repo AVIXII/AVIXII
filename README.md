@@ -1,7 +1,6 @@
-- 👋 Hi, I’m @AVIXII
-- 👀 I’m interested in Programming and Development
-- 🌱 I’m currently learning C++ & Python 
-- 💞️ I’m looking to collaborate on Competitive Programming and Development
+- 👋 Hi, I’m @RishabhRamdhave
+- 👀 I’m interested in Web Development and Competitive Programming
+- 🌱 I’m currently learning Java 
 - 📫 How to reach me rishabhramdhave@gmail.com
 
 <!---
