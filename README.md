@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @RishabhRamdhave
+- 👋 Hi, I’m @RishabhR
 - 👀 I’m interested in Web Development and Competitive Programming
 - 🌱 I’m currently learning Java 
 
